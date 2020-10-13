@@ -1,2 +1,2 @@
 # DI8003-project
-Hash lookup and brute-force cracker
+P2P Hash lookup and brute-force cracker
